@@ -1,2 +1,2 @@
 # lab01
-Part of Devlab01 project.
+Part of Devops Lab project.
